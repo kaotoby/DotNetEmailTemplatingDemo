@@ -11,5 +11,7 @@ Please replase configs in App.config before you run the demo
 * SmtpPassword
 * SmtpSenderEmailAddress
 
+**Note: If you're running demo with your Gmail account, you need to [enable less secure apps access](https://support.google.com/accounts/answer/6010255?hl=en).**
+
 # Others
 Email style and template are from laravel premailer
