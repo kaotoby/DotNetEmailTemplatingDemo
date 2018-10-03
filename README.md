@@ -1,5 +1,5 @@
 # DotNetEmailTemplatingDemo
-.NET Email templating with RazorEngine and external CSS (using Premailer)
+.NET Email templating with [RazorEngine](https://github.com/Antaris/RazorEngine) and [Premailer](https://github.com/milkshakesoftware/PreMailer.Net) (external CSS support)
 
 # How to use
 Please replase configs in App.config before you run the demo
